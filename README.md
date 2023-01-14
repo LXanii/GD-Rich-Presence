@@ -25,3 +25,8 @@ These are 1 time steps, so once you do this you will not have to do this again.
 If I can find an easier way to make this work I will, but for now this is what you have to do.
 
 Tutorial Video if you are having issues installing: https://youtu.be/RAr_-HI_CSQ
+
+# Solutions
+There are known problems which make rich presence not appear on your discord profile.
+1. On discord, you must have "Display current activity as a status message." Enabled. You can find this by going to Settings -> Activity Privacy -> Top of the page.
+2. If you have that enabled but are still getting no results, make sure you have "Discord Rich Presence" in Megahack disabled. It is located under the "Mega Hack Pro" Tab in megahack, once you do this you will have to restart your game. After that, it should be fixed.
