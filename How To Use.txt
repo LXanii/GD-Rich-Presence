@@ -1,0 +1,15 @@
+Using this is very easy
+
+    
+    Go to: https://discord.com/developers/applications
+    Sign into Discord (This is the official Discord site, we only need this for the user id.)
+    Click "New Application" at the top right
+    Name it preferably "Geometry Dash"
+    Once the bot is made, go to the "OAuth2" Tab
+    Click on "Copy" under the Client ID
+    Paste that Client ID in the ID portion of the Config File (In between the 2 "", Ex: user id = "133321023")
+
+
+These are 1 time steps, so once you do this you will not have to do this again.
+
+If I can find an easier way to make this work I will, but for now this is what you have to do.
