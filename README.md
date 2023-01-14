@@ -23,3 +23,4 @@ Using this is very easy
 These are 1 time steps, so once you do this you will not have to do this again.
 
 If I can find an easier way to make this work I will, but for now this is what you have to do.
+Tutorial Video if you are having issues installing: https://www.youtube.com/watch?v=gOLOHFWv3Vc&ab_channel=XaniiII
